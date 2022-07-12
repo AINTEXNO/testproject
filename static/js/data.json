@@ -1,0 +1,18 @@
+
+  {
+    "auto": {
+      "engine_power": 150,
+      "passengers_count": 7,
+      "screen_diagonal": 8
+    },
+    "computer": {
+      "cores_count": 8,
+      "memory": 32
+    },
+    "phone": {
+      "screen_diagonal": 6,
+      "memory": 16,
+      "cores_count": 4
+    }
+  }
+
